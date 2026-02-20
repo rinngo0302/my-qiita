@@ -1,12 +1,12 @@
 ---
 title: '[Unity入門] 1. Unity Editorのインストールをしよう'
 tags:
-  - 'Unity'
-  - '初心者'
-  - 'ゲークリ'
+  - Unity
+  - 初心者
+  - ゲークリ
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-02-20T11:43:30+09:00'
+id: ae3e8bb31c957e59b16a
 organization_url_name: null
 slide: false
 ignorePublish: false
