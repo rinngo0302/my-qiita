@@ -7,7 +7,7 @@ tags:
 private: false
 updated_at: '2026-02-20T11:43:30+09:00'
 id: ae3e8bb31c957e59b16a
-organization_url_name: null
+organization_url_name: 'tugc'
 slide: false
 ignorePublish: false
 ---
