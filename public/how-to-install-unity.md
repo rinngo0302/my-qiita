@@ -4,7 +4,7 @@ tags:
   - Unity
   - 初心者
   - ゲークリ
-private: false
+private: true
 updated_at: '2026-02-20T11:48:27+09:00'
 id: ae3e8bb31c957e59b16a
 organization_url_name: tugc
