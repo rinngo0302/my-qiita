@@ -1,5 +1,5 @@
 ---
-title: '[Unity入門] 1. Unity Editorのインストールをしよう'
+title: '[Unity入門] 1. Unity Editorのインストールをしよう！'
 tags:
   - Unity
   - 初心者
